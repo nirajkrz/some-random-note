@@ -5,7 +5,7 @@ Use for styling sections, Polygon structure:
    -webkit-clip-path: polygon(50% 0%, 100% 15%, 100% 100%, 50% 100%, 0 100%, 0 15%); //up-pointing polygon
    
        clip-path: polygon(10% 0, 100% 10%, 100% 90%, 90% 100%, 0 90%, 0 10%); // Down polygon shape
-       
+#############################################################################################################################       
        OR use a svg for some shape:
        
   svg {
@@ -29,3 +29,6 @@ Use for styling sections, Polygon structure:
     <path d="M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z" style="stroke: none; fill:red;"></path>
   </svg>
 </div>
+#########################################################################################################################################
+
+Wave SVG Generator: https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
